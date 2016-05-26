@@ -1,0 +1,16 @@
+{
+  "name": "File_upload-Watson_Classifer",
+  "version": "1.0.0",
+  "description": "File uploader with IBM Watson Image classification",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Clark",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "formidable": "^1.0.17",
+    "watson-developer-cloud": "^1.8.0"
+  }
+}
